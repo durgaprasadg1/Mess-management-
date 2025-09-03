@@ -1,0 +1,16 @@
+Clone it -> go to its folder by --> cd Mess-Management-
+check status by -->  git status
+
+--- Main Kaam ---
+form your named branch by this command -->  git checkout -b durgaprasad    <-- like this
+Make changes only when you have created the branch
+Add your work in particular folder , use this command -->   git add .   (yaha add ke baad space hai phr  . hai VO full stop nhi hai )
+commit the changes --> git commit -m "Proper Message About change in short"
+
+go to main branch after making changes by this command --> git checkout main   then do  
+git pull origin main 
+
+git merge (your branch name)  then git push origin main 
+
+
+
